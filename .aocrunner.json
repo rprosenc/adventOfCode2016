@@ -41,13 +41,16 @@
           "285",
           "1627"
         ],
-        "time": 2.72
+        "time": 3.67
       },
       "part2": {
-        "solved": false,
-        "result": null,
-        "attempts": [],
-        "time": null
+        "solved": true,
+        "result": "1838",
+        "attempts": [
+          "616",
+          "623"
+        ],
+        "time": 15
       }
     },
     {
